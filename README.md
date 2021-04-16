@@ -17,9 +17,8 @@ Here are some ideas to get you started:
 
 # Nunes 💻
 Me considero Dev Full Cycle, sou fascinado pelo senso de responsabilidade no desenvolvimento de soluções.
-
 <a href="https://github.com/ricardo-jnunes/ricardo-jnunes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo-jnunes&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo-jnunes" />
 </a>
 
 ## 🔧 Technologies & Tools
