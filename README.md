@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Nunes 💻
+Me considero Dev Full Cycle, sou fascinado pelo senso de responsabilidade no desenvolvimento de soluções.
+
+<a href="https://github.com/ricardo-jnunes/ricardo-jnunes">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo-jnunes&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+
+## Web 🌎:
+- <a href="https://br.linkedin.com/in/ricardo-jos%C3%A9-nunes-b971a6134">LinkedIn</a>
