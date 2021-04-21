@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## Nunes 💻
-Me considero desenvolvedor Full Cycle, sou fascinado pelo senso de dono no desenvolvimento de aplicações/soluções e pela criação e o compartilhamento de conhecimentos.
+Me considero desenvolvedor Full Cycle, sou fascinado pela ideia de "dono" no desenvolvimento de aplicações/soluções e pela criação e o compartilhamento de conhecimentos.
 
 <a href="https://github.com/ricardo-jnunes/ricardo-jnunes">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo-jnunes" />
@@ -24,6 +24,8 @@ Me considero desenvolvedor Full Cycle, sou fascinado pelo senso de dono no desen
 
 ## 🔧 Some Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
