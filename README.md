@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## Nunes 💻
-Me considero desenvolvedor Full Cycle, sou fascinado pela ideia de "dono" no desenvolvimento de aplicações/soluções e pela criação e o compartilhamento de conhecimentos.
+Me considero desenvolvedor Full Cycle, sou fascinado pela ideia de "dono" no desenvolvimento de aplicações/soluções, conhecer toda a stack envolvida e pela compartilhamento de conhecimentos.
 
 <a href="https://github.com/ricardo-jnunes/ricardo-jnunes">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo-jnunes" />
