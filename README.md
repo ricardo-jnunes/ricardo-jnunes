@@ -27,14 +27,14 @@ Me considero desenvolvedor Full Cycle, sou fascinado pela ideia de "dono" no des
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/React-20232A?style=flat&logo=React&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Angular-DD0031??style=flat&logo=angular&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-React-20232A?style=flat&logo=React&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Angular-DD0031??style=flat&logo=angular&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Node.js-43853D?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Style-Sass-CC6699?style=flat&logo=sass&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/DBMS-MySQL-00000F?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 
 ## Web 🌎:
 - <a href="https://br.linkedin.com/in/ricardo-jos%C3%A9-nunes-b971a6134">LinkedIn</a>
