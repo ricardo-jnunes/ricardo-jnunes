@@ -16,9 +16,11 @@ Here are some ideas to get you started:
 -->
 
 ## Nunes 💻
-Desenvolvedor Full Cycle, com 12 anos de experiência.
 
-Sou fascinado pela ideia de "dono" n arquitetura e desenvolvimento de aplicações/soluções, conhecer toda a stack envolvida e pelo compartilhamento de conhecimentos.
+Sou fascinado pela ideia de "dono" desde a concepção da arquitetura e desenvolvimento de soluções, conhecer toda a stack envolvida e pelo compartilhamento de conhecimentos.
+
+Desenvolvedor Full Cycle, pós-graduado em Segurança e Gestão de Dados, MBA em Gestão e Tecnologia, com 12 anos de experiência.
+
 
 <a href="https://github.com/ricardo-jnunes/ricardo-jnunes">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo-jnunes" />
