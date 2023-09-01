@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ## Nunes 💻
 
-Sou fascinado pela ideia de "dono" desde a concepção da arquitetura e desenvolvimento de soluções, conhecer toda a stack envolvida e pelo compartilhamento de conhecimentos.
+Sou fascinado pela ideia de "dono" desde a concepção da arquitetura e desenvolvimento de soluções, conhecer toda a stack envolvida e pela difusão de conhecimento.
 
-Desenvolvedor Full Cycle, pós-graduado em Segurança e Gestão de Dados, MBA em Gestão e Tecnologia, com 12+ anos de experiência.
+Desenvolvedor Full Cycle, pós-graduado em Segurança e Gestão de Dados, MBA em Gestão e Tecnologia e Bacharel em Ciências da Computação com 12+ anos de experiência.
 
 
 <a href="https://github.com/ricardo-jnunes/ricardo-jnunes">
