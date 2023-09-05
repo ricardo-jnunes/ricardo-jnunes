@@ -33,6 +33,7 @@ Desenvolvedor Full Cycle, pós-graduado em Segurança e Gestão de Dados, MBA em
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-React-20232A?style=flat&logo=React&logoColor=white&color=DD0031)
 ![](https://img.shields.io/badge/Code-Angular-DD0031??style=flat&logo=angular&logoColor=white&color=DD0031)
+![](https://img.shields.io/badge/Code-GraphQL-DD0031??style=flat&logo=graphql&logoColor=white&color=DD0031)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=DD0031)
 ![](https://img.shields.io/badge/Style-CSS-CC6699?style=flat&logo=css3&logoColor=white&color=06B6D4)
 ![](https://img.shields.io/badge/Style-Sass-CC6699?style=flat&logo=sass&logoColor=white&color=06B6D4)
