@@ -17,9 +17,11 @@ Here are some ideas to get you started:
 
 ## Nunes 💻
 
-Sou fascinado pela ideia de "dono" desde a concepção da arquitetura e desenvolvimento de soluções, conhecer toda a stack envolvida e pela difusão de conhecimento.
+Sou impulsionado pela busca incessante de desafios, pois são eles que nos conduzem a novos patamares de excelência e crescimento, tanto pessoal quanto profissional. 
 
-Desenvolvedor Full Cycle, pós-graduado em Segurança Digital, Governança e Gestão de Dados, possuo MBA em Gestão e Tecnologia e Bacharel em Ciências da Computação com 12+ anos de experiência.
+Tenho comigo a ideia de ser 'dono' e responsável pelos projetos em que parcipamos, desde a concepção da arquitetura até o desenvolvimento de soluções, dominando toda a stack envolvida e compartilhando conhecimento. 
+
+Como desenvolvedor Full Cycle e atualmente focado em arquitetura de soluções, trago uma sólida bagagem prática e acadêmica, com pós-graduação em Segurança Digital, Governança e Gestão de Dados, além de MBA em Gestão e Tecnologia e Bacharelado em Ciências da Computação, somando mais de 12 anos de experiência na área.
 
 
 <a href="https://github.com/ricardo-jnunes/ricardo-jnunes">
