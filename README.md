@@ -23,7 +23,7 @@ Desenvolvedor Full Cycle, pós-graduado em Segurança Digital, Governança e Ges
 
 
 <a href="https://github.com/ricardo-jnunes/ricardo-jnunes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo-jnunes" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo-jnunes&layout=donut-vertical&langs_count=8" />
 </a>
 
 ## 🔧 Some Technologies & Tools
