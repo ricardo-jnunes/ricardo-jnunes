@@ -46,4 +46,4 @@ Como desenvolvedor Full Cycle e atualmente focado em arquitetura de soluções, 
 ![](https://img.shields.io/badge/DBMS-MySQL-00000F?style=flat&logo=mysql&logoColor=white&color=4479A1)
 
 ## Web 🌎:
-- <a href="https://br.linkedin.com/in/ricardo-jos%C3%A9-nunes-b971a6134">LinkedIn</a>
+- <a href="https://www.linkedin.com/in/ricardo-jos%C3%A9-nunes">LinkedIn</a>
