@@ -27,6 +27,9 @@ Como desenvolvedor Full Cycle e atualmente focado em arquitetura de soluções, 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo-jnunes&layout=donut-vertical&langs_count=8" />
 </a>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ricardo-jnunes)
+
 ## 🔧 Some Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
