@@ -31,22 +31,29 @@ Como desenvolvedor Full Cycle e atualmente focado em arquitetura de soluções, 
 ![](https://github-profile-trophy.vercel.app/?username=ricardo-jnunes)
 
 ## 🔧 Some Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-React-20232A?style=flat&logo=React&logoColor=white&color=DD0031)
-![](https://img.shields.io/badge/Code-Angular-DD0031??style=flat&logo=angular&logoColor=white&color=DD0031)
-![](https://img.shields.io/badge/Code-GraphQL-DD0031??style=flat&logo=graphql&logoColor=white&color=DD0031)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=DD0031)
-![](https://img.shields.io/badge/Style-CSS-CC6699?style=flat&logo=css3&logoColor=white&color=06B6D4)
-![](https://img.shields.io/badge/Style-Sass-CC6699?style=flat&logo=sass&logoColor=white&color=06B6D4)
-![](https://img.shields.io/badge/Style-Tailwind%20CSS-CC6699?style=flat&logo=tailwindcss&logoColor=white&color=06B6D4)
-![](https://img.shields.io/badge/Style-Bootstrap-CC6699?style=flat&logo=bootstrap&logoColor=white&color=06B6D4)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=5391FE)
-![](https://img.shields.io/badge/Tools-Node.js-43853D?style=flat&logo=node.js&logoColor=white&color=5391FE)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=5391FE)
-![](https://img.shields.io/badge/DBMS-MySQL-00000F?style=flat&logo=mysql&logoColor=white&color=4479A1)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=d44375)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=gitforwindows&logoColor=white&color=d44375)
 
-## Web 🌎:
-- <a href="https://www.linkedin.com/in/ricardo-jos%C3%A9-nunes">LinkedIn</a>
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=dd3d00)
+![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=dd3d00)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=dd3d00)
+![](https://img.shields.io/badge/Code-HTML-white?style=flat&logo=HTML5&logoColor=white&color=DD0031)
+![](https://img.shields.io/badge/Code-React-white?style=flat&logo=React&logoColor=white&color=DD0031)
+![](https://img.shields.io/badge/Code-Angular-white?style=flat&logo=angular&logoColor=white&color=DD0031)
+![](https://img.shields.io/badge/Code-GraphQL-white?style=flat&logo=graphql&logoColor=white&color=DD0031)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=DD0031)
+
+![](https://img.shields.io/badge/Style-CSS-white?style=flat&logo=css3&logoColor=white&color=06B6D4)
+![](https://img.shields.io/badge/Style-Sass-white?style=flat&logo=sass&logoColor=white&color=06B6D4)
+![](https://img.shields.io/badge/Style-Tailwind%20CSS-white?style=flat&logo=tailwindcss&logoColor=white&color=06B6D4)
+![](https://img.shields.io/badge/Style-Bootstrap-white?style=flat&logo=bootstrap&logoColor=white&color=06B6D4)
+
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=5391FE)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=5391FE)
+![](https://img.shields.io/badge/Tools-Node.js-white?style=flat&logo=node.js&logoColor=white&color=5391FE)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=5391FE)
+
+![](https://img.shields.io/badge/DBMS-MySQL-white?style=flat&logo=mysql&logoColor=white&color=4479A1)
+![](https://img.shields.io/badge/DBMS-PostgreSQL-white?style=flat&logo=postgresql&logoColor=white&color=4479A1)
+![](https://img.shields.io/badge/DBMS-Oracle-white?style=flat&logo=oracle&logoColor=white&color=4479A1)
+
