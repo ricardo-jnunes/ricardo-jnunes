@@ -37,6 +37,7 @@ Como desenvolvedor Full Cycle e atualmente focado em arquitetura de soluções, 
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=dd3d00)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=dd3d00)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=dd3d00)
+![](https://img.shields.io/badge/Code-JSP-informational?style=flat&logo=jsp&logoColor=white&color=dd3d00)
 ![](https://img.shields.io/badge/Code-HTML-white?style=flat&logo=HTML5&logoColor=white&color=DD0031)
 ![](https://img.shields.io/badge/Code-React-white?style=flat&logo=React&logoColor=white&color=DD0031)
 ![](https://img.shields.io/badge/Code-Angular-white?style=flat&logo=angular&logoColor=white&color=DD0031)
