@@ -31,14 +31,6 @@ Como desenvolvedor Full Cycle e atualmente focado em arquitetura de soluções, 
 ![](https://github-profile-trophy.vercel.app/?username=ricardo-jnunes)
 
 ## 🔧 Some Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=d44375)
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=gitforwindows&logoColor=white&color=d44375)
-
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=dd3d00)
-![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=dd3d00)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=dd3d00)
-![](https://img.shields.io/badge/Code-JSP-informational?style=flat&logo=jsp&logoColor=white&color=dd3d00)
-
 ![](https://img.shields.io/badge/Code-HTML-white?style=flat&logo=HTML5&logoColor=white&color=DD0031)
 ![](https://img.shields.io/badge/Code-React-white?style=flat&logo=React&logoColor=white&color=DD0031)
 ![](https://img.shields.io/badge/Code-Angular-white?style=flat&logo=angular&logoColor=white&color=DD0031)
@@ -55,7 +47,14 @@ Como desenvolvedor Full Cycle e atualmente focado em arquitetura de soluções, 
 ![](https://img.shields.io/badge/Tools-Node.js-white?style=flat&logo=node.js&logoColor=white&color=5391FE)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=5391FE)
 
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=dd3d00)
+![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=dd3d00)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=dd3d00)
+![](https://img.shields.io/badge/Code-JSP-informational?style=flat&logo=jsp&logoColor=white&color=dd3d00)
+
 ![](https://img.shields.io/badge/DBMS-MySQL-white?style=flat&logo=mysql&logoColor=white&color=4479A1)
 ![](https://img.shields.io/badge/DBMS-PostgreSQL-white?style=flat&logo=postgresql&logoColor=white&color=4479A1)
 ![](https://img.shields.io/badge/DBMS-Oracle-white?style=flat&logo=oracle&logoColor=white&color=4479A1)
 
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=d44375)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=gitforwindows&logoColor=white&color=d44375)
