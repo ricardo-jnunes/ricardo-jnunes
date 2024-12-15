@@ -21,7 +21,7 @@ Sou impulsionado pela busca de desafios, pois são eles que nos conduzem a novos
 
 Tenho sempre comigo o sentimento de 'dono' e ser responsável pelos projetos em que estamos, desde a concepção da arquitetura até o desenvolvimento de soluções, dominando toda a stack envolvida e compartilhando conhecimento. 
 
-Como desenvolvedor Full Cycle e atualmente focado em arquitetura de soluções, trago uma grande bagagem prática e acadêmica, com pós-graduação em Segurança Digital, Governança e Gestão de Dados, além de MBA em Gestão e Tecnologia e Bacharelado em Ciências da Computação, somando mais de 12 anos de experiência na área.
+Como desenvolvedor Full Cycle e atualmente focado em Arquitetura de Soluções, trago uma grande bagagem prática e acadêmica, com pós-graduação em Segurança Digital, Governança e Gestão de Dados, além de MBA em Gestão e Tecnologia e Bacharelado em Ciências da Computação, somando mais de 12 anos de experiência na área.
 
 <a href="https://github.com/ricardo-jnunes/ricardo-jnunes">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo-jnunes&layout=donut-vertical&langs_count=8" />
